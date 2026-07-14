@@ -1,0 +1,62 @@
+/[Ex|Bl]*
+# =========================================================================
+# Unity Generated Folders & Files
+# =========================================================================
+[L|l]ibrary/
+[T|t]emp/
+[O|o]bj/
+[B|b]uild/
+[B|b]uilds/
+[L|l]ogs/
+[U|u]ser[S|s]ettings/
+MemoryCaptures/
+Recording/
+
+# =========================================================================
+# Asset & Package Management
+# =========================================================================
+# Never ignore .meta files, but ignore temporary package files
+/[A|a]ssets/AssetStoreTools*
+*.unitypackage
+
+# =========================================================================
+# IDE & System Files (VS Code / Visual Studio)
+# =========================================================================
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.pdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# =========================================================================
+# VR & XR Specific Exclusions
+# =========================================================================
+# Ignore local XR plugin caches and local diagnostic logs
+/[A|a]ssets/Oculus/VR/Editor/
+/[A|a]ssets/XRI/
+*.log
+CrashReports/
+
+# =========================================================================
+# Build Outputs
+# =========================================================================
+# Exclude compiled builds (Standalone, Android/Quest APKs)
+*.apk
+*.aab
+*.exe
+*.app
