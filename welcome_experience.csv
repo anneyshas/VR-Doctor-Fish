@@ -1,0 +1,6 @@
+node,physical_position,addr_left_leg,addr_right_leg,wave,start_s,stop_s,duration_s,crossfade
+A1,top front,0,1,noise_pwm,0.0,1.0,1.0,linear 0.5s
+B1,top back (gap),16,17,sine_rolling,1.0,2.0,1.0,linear 0.5s
+A2,mid front,2,3,sine_rolling,2.0,5.0,3.0,linear 0.5s
+B2,low back (gap),18,19,sine_rolling,5.0,7.0,2.0,linear 0.5s
+A3,bottom front,4,5,sine_rolling,7.0,10.0,3.0,linear 0.5s
