@@ -24,9 +24,8 @@ Real-world setup: sit on a chair, remove your shoes, put your feet into a real b
 | 1. Welcome | Clear water flowing around your legs | Gentle water flow and soft music | A gentle wave of vibration rising slowly along both legs |
 | 2. Small fish | Small fish swim toward your feet | Tiny nibbling sounds | Soft, ticklish vibrations at random points on your legs |
 | 3. Big fish | A big fish approaches and bites | A strong splash and water movement | A strong, quick vibration |
-| 4. More big fish | More large fish swim around | More active water | Strong, quick vibrations on different spots |
-| 5. Jellyfish | Jellyfish glide by your legs | Whooshing and electric sounds | Sharp, high-frequency vibrations like tiny stings |
-| 6. Calm | The water becomes calm again | Gentle water flow and relaxing music | Vibrations fade away |
+| 4. Jellyfish | Jellyfish glide by your legs | Whooshing and electric sounds | Sharp, high-frequency vibrations like tiny stings |
+| 5. Calm | The water becomes calm again | Gentle water flow and relaxing music | Vibrations fade away |
 
 At the end the user takes off the headset and lifts their feet out of the bucket, ideally with a relaxed body and a happy mind.
 
